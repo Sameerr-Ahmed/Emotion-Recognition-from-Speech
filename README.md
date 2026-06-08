@@ -291,7 +291,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## 📧 Contact
 
-**Author**: Sameerr-Ahmed
+**Author**: Sameerr-Ahmed and Saif ur Rehman
 
 For questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/Sameerr-Ahmed/Emotion-Recognition-from-Speech).
 
